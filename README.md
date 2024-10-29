@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>Hi there, I'm Pooja Y P 👋<br>🎓 Final-Year Computer Science & Engineering Student<br>💻 Aspiring Java Developer<br>💡 Passionate about building scalable software and open to collaboration!
+# 💫Hi there, I'm Pooja Y P 👋
+🎓 Final-Year Computer Science & Engineering Student<br>💻 Aspiring Java Developer<br>💡 Passionate about building scalable software and open to collaboration!
 
 
 ## 🌐 Socials:
